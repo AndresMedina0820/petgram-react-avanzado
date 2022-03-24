@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "petgram-server-andev0820",
-  "alias": ["petgram-api-andev0820"],
+  "alias": ["petgram-api-andev"],
   "builds": [{ "src": "index.js", "use": "@vercel/node" }],
   "routes": [{
     "headers": {
